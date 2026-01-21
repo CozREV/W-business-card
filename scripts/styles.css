@@ -3,12 +3,12 @@ body {
     background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGphZWFkOHp0cGlla3FsOHN5eGI1aXczcjdhNzdreWhoODI1dno1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif');
     background-size: auto;
 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
 }
 
 .avatar {
-    width: 150px;
+    width: 175px;
     border-radius: 15px;
     box-shadow: 0px 0px 4px black;
 }
@@ -16,7 +16,7 @@ body {
 #card {
     display: flex;
     justify-content: space-between;
-    width: 400px;
+    width: 450px;
     text-align: center;
     margin: 0 auto;
     background: #ffd60a;
