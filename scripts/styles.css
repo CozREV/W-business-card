@@ -1,0 +1,38 @@
+body {
+    margin: 100px;
+    background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGphZWFkOHp0cGlla3FsOHN5eGI1aXczcjdhNzdreWhoODI1dno1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif');
+    background-size: auto;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: large;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4px black;
+}
+
+#card {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    background: #ffd60a;
+    padding: 30px;
+    border: 4px solid black;
+    box-shadow: 0px 0px 5px orange;
+    border-radius: 25px;
+}
+
+.underborder {
+    border-bottom: 8px solid #b4ffff;
+}
+
+#cardinfo {
+    background: #ffc300;
+    margin-left: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 4px black;
+}
